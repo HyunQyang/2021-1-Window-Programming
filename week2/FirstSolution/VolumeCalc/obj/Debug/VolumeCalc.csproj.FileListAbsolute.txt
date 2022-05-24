@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\bin\Debug\VolumeCalc.exe.config
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\bin\Debug\VolumeCalc.exe
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\bin\Debug\VolumeCalc.pdb
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.frmVolumeCalc.resources
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.Properties.Resources.resources
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.exe
+D:\윈도우 프로그래밍\week2\FirstSolution\VolumeCalc\obj\Debug\VolumeCalc.pdb
