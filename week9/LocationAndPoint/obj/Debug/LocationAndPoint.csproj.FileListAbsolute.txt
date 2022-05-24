@@ -1,0 +1,9 @@
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\bin\Debug\LocationAndPoint.exe.config
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\bin\Debug\LocationAndPoint.exe
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\bin\Debug\LocationAndPoint.pdb
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\obj\Debug\LocationAndPoint.Form1.resources
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\obj\Debug\LocationAndPoint.Properties.Resources.resources
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\obj\Debug\LocationAndPoint.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\obj\Debug\LocationAndPoint.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\obj\Debug\LocationAndPoint.exe
+D:\윈도우 프로그래밍\formeventProject\LocationAndPoint\obj\Debug\LocationAndPoint.pdb

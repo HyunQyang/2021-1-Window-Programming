@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\bin\Debug\NotepadAPP.exe.config
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\bin\Debug\NotepadAPP.exe
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\bin\Debug\NotepadAPP.pdb
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.Properties.Resources.resources
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.exe
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.pdb
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\formeventProject\NotepadAPP\obj\Debug\NotepadAPP.MainForm1.resources

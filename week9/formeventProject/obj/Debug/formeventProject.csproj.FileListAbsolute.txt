@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\formeventProject\formeventProject\bin\Debug\formeventProject.exe.config
+D:\윈도우 프로그래밍\formeventProject\formeventProject\bin\Debug\formeventProject.exe
+D:\윈도우 프로그래밍\formeventProject\formeventProject\bin\Debug\formeventProject.pdb
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.MainForm.resources
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.Properties.Resources.resources
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.exe
+D:\윈도우 프로그래밍\formeventProject\formeventProject\obj\Debug\formeventProject.pdb

@@ -1,0 +1,9 @@
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\bin\Debug\LocationAndFormApp.exe.config
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\bin\Debug\LocationAndFormApp.exe
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\bin\Debug\LocationAndFormApp.pdb
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\obj\Debug\LocationAndFormApp.MainForm1.resources
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\obj\Debug\LocationAndFormApp.Properties.Resources.resources
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\obj\Debug\LocationAndFormApp.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\obj\Debug\LocationAndFormApp.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\obj\Debug\LocationAndFormApp.exe
+D:\윈도우 프로그래밍\formeventProject\LocationAndFormApp\obj\Debug\LocationAndFormApp.pdb
