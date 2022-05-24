@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\bin\Debug\PointerIndexerWIndowApp.exe.config
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\bin\Debug\PointerIndexerWIndowApp.exe
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\bin\Debug\PointerIndexerWIndowApp.pdb
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.Form1.resources
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.Properties.Resources.resources
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.exe
+D:\윈도우 프로그래밍\week5\PointerIndexerWIndowApp\obj\Debug\PointerIndexerWIndowApp.pdb
