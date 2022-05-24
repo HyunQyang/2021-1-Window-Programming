@@ -1,0 +1,11 @@
+D:\윈도우 프로그래밍\week9\WindowFormApp\bin\Debug\WindowFormApp.exe.config
+D:\윈도우 프로그래밍\week9\WindowFormApp\bin\Debug\WindowFormApp.exe
+D:\윈도우 프로그래밍\week9\WindowFormApp\bin\Debug\WindowFormApp.pdb
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.MainForm.resources
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.Properties.Resources.resources
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.subForm.resources
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.exe
+D:\윈도우 프로그래밍\week9\WindowFormApp\obj\Debug\WindowFormApp.pdb

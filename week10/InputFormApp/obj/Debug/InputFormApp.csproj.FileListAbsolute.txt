@@ -1,0 +1,11 @@
+D:\윈도우 프로그래밍\week9\InputFormApp\bin\Debug\InputFormApp.exe.config
+D:\윈도우 프로그래밍\week9\InputFormApp\bin\Debug\InputFormApp.exe
+D:\윈도우 프로그래밍\week9\InputFormApp\bin\Debug\InputFormApp.pdb
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.recieveForm.resources
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.InputForm.resources
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.Properties.Resources.resources
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.exe
+D:\윈도우 프로그래밍\week9\InputFormApp\obj\Debug\InputFormApp.pdb
