@@ -1,0 +1,10 @@
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\bin\Debug\asdfa.exe.config
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\bin\Debug\asdfa.exe
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\bin\Debug\asdfa.pdb
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\ExceptionExamProject.csprojAssemblyReference.cache
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\asdfa.MainForm.resources
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\asdfa.Properties.Resources.resources
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\ExceptionExamProject.csproj.GenerateResource.cache
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\ExceptionExamProject.csproj.CoreCompileInputs.cache
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\asdfa.exe
+C:\Users\YangHyunKyu\source\repos\week5\asdfa\obj\Debug\asdfa.pdb

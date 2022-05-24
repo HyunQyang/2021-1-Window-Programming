@@ -1,0 +1,10 @@
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\bin\Debug\IndexExceptionExam.exe.config
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\bin\Debug\IndexExceptionExam.exe
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\bin\Debug\IndexExceptionExam.pdb
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\ArrayFormAPP.csprojAssemblyReference.cache
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\IndexExceptionExam.ArrayForm.resources
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\IndexExceptionExam.Properties.Resources.resources
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\ArrayFormAPP.csproj.GenerateResource.cache
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\ArrayFormAPP.csproj.CoreCompileInputs.cache
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\IndexExceptionExam.exe
+C:\Users\YangHyunKyu\source\repos\week5\IndexExceptionExam\obj\Debug\IndexExceptionExam.pdb
