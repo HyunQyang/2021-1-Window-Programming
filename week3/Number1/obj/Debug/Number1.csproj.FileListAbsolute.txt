@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week3\Number1\bin\Debug\Number1.exe.config
+D:\윈도우 프로그래밍\week3\Number1\bin\Debug\Number1.exe
+D:\윈도우 프로그래밍\week3\Number1\bin\Debug\Number1.pdb
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.MainForm.resources
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.Properties.Resources.resources
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.exe
+D:\윈도우 프로그래밍\week3\Number1\obj\Debug\Number1.pdb

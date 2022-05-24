@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week3\Number4\bin\Debug\Number4.exe.config
+D:\윈도우 프로그래밍\week3\Number4\bin\Debug\Number4.exe
+D:\윈도우 프로그래밍\week3\Number4\bin\Debug\Number4.pdb
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.FractionAddForm.resources
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.Properties.Resources.resources
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.exe
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.pdb
+D:\윈도우 프로그래밍\week3\Number4\obj\Debug\Number4.csprojAssemblyReference.cache
