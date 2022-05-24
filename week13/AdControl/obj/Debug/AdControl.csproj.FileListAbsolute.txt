@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week13\AdControl\bin\Debug\AdControl.exe.config
+D:\윈도우 프로그래밍\week13\AdControl\bin\Debug\AdControl.exe
+D:\윈도우 프로그래밍\week13\AdControl\bin\Debug\AdControl.pdb
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.ACForm1.resources
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.Properties.Resources.resources
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.exe
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.pdb
+D:\윈도우 프로그래밍\week13\AdControl\obj\Debug\AdControl.csprojAssemblyReference.cache
