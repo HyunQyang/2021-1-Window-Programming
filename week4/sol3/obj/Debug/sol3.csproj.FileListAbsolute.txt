@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\PointExam\sol3\bin\Debug\sol3.exe.config
+D:\윈도우 프로그래밍\PointExam\sol3\bin\Debug\sol3.exe
+D:\윈도우 프로그래밍\PointExam\sol3\bin\Debug\sol3.pdb
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.Form1.resources
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.Properties.Resources.resources
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.exe
+D:\윈도우 프로그래밍\PointExam\sol3\obj\Debug\sol3.pdb

@@ -1,0 +1,9 @@
+D:\윈도우 프로그래밍\PointExam\sol4\bin\Debug\sol4.exe.config
+D:\윈도우 프로그래밍\PointExam\sol4\bin\Debug\sol4.exe
+D:\윈도우 프로그래밍\PointExam\sol4\bin\Debug\sol4.pdb
+D:\윈도우 프로그래밍\PointExam\sol4\obj\Debug\sol4.Form1.resources
+D:\윈도우 프로그래밍\PointExam\sol4\obj\Debug\sol4.Properties.Resources.resources
+D:\윈도우 프로그래밍\PointExam\sol4\obj\Debug\sol4.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\PointExam\sol4\obj\Debug\sol4.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\PointExam\sol4\obj\Debug\sol4.exe
+D:\윈도우 프로그래밍\PointExam\sol4\obj\Debug\sol4.pdb
