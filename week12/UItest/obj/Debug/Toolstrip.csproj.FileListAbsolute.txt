@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week12\UItest\bin\Debug\UItest.exe.config
+D:\윈도우 프로그래밍\week12\UItest\bin\Debug\UItest.exe
+D:\윈도우 프로그래밍\week12\UItest\bin\Debug\UItest.pdb
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\Toolstrip.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\UItest.MainForm1.resources
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\UItest.Properties.Resources.resources
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\Toolstrip.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\Toolstrip.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\UItest.exe
+D:\윈도우 프로그래밍\week12\UItest\obj\Debug\UItest.pdb

@@ -1,0 +1,10 @@
+D:\윈도우 프로그래밍\week12\notepad\bin\Debug\notepad.exe.config
+D:\윈도우 프로그래밍\week12\notepad\bin\Debug\notepad.exe
+D:\윈도우 프로그래밍\week12\notepad\bin\Debug\notepad.pdb
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.csprojAssemblyReference.cache
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.notepadForm1.resources
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.exe
+D:\윈도우 프로그래밍\week12\notepad\obj\Debug\notepad.pdb
